@@ -1,35 +1,35 @@
 # 🏋️‍♂️ Obesity Levels Classification using Neural Networks & SVM  
 
-Αυτό το repository περιέχει ένα **Google Colab Notebook** που εξερευνά τη λειτουργία των **Νευρωνικών Δικτύων (MLP, RBF)** καθώς και του **Υποστηρικτικού Διανυσματικού Μηχανισμού (SVM)** για την **ταξινόμηση επιπέδων παχυσαρκίας**.  
+This repository contains a **Google Colab Notebook** that explores the use of **Neural Networks (MLP, RBF)** and the **Support Vector Machine (SVM)** for **obesity level classification**.  
 
 ---
 
-## 📌 Περιγραφή  
+## 📌 Description  
 
-🔹 **Τίτλος Notebook:** `Νευρωνικά_Δίκτυα.ipynb`  
-🔹 Περιέχει πειράματα και υλοποιήσεις με **Python, TensorFlow & Scikit-learn**  
-🔹 Εκπαίδευση και αξιολόγηση των μοντέλων **MLP (Multilayer Perceptron), RBF (Radial Basis Function) & SVM (Support Vector Machine)**  
-🔹 Ανάλυση δεδομένων και οπτικοποίηση αποτελεσμάτων  
+🔹 **Notebook Title:** `Neural_Networks.ipynb`  
+🔹 Includes experiments and implementations using **Python, TensorFlow & Scikit-learn**  
+🔹 Training and evaluation of **MLP (Multilayer Perceptron), RBF (Radial Basis Function) & SVM (Support Vector Machine)** models  
+🔹 Data analysis and visualization of results  
 
 ---
 
 ## 📊 Dataset  
 
-📁 **Χρησιμοποιούμενο Dataset:** `Obesity Levels Dataset` 🏋️  
-🔹 **Πηγή:** [Kaggle - Obesity Levels Dataset](https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels)  
-🔹 Το dataset περιλαμβάνει **2111 δείγματα** με **17 χαρακτηριστικά** που αφορούν **διατροφικές συνήθειες, φυσική δραστηριότητα και δημογραφικά στοιχεία**.  
-🔹 **Στόχος:** Πρόβλεψη της κατηγορίας **παχυσαρκίας** του ατόμου (`Insufficient Weight`, `Normal Weight`, `Overweight Level I`, `Overweight Level II`, `Obesity Type I`, `Obesity Type II`, `Obesity Type III`).  
+📁 **Dataset Used:** `Obesity Levels Dataset` 🏋️  
+🔹 **Source:** [Kaggle - Obesity Levels Dataset](https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels)  
+🔹 The dataset contains **2111 samples** with **17 features** related to **dietary habits, physical activity, and demographic information**.  
+🔹 **Goal:** Predict the **obesity category** of an individual (`Insufficient Weight`, `Normal Weight`, `Overweight Level I`, `Overweight Level II`, `Obesity Type I`, `Obesity Type II`, `Obesity Type III`).  
 
-### **🔢 Κύρια Χαρακτηριστικά του Dataset**
-- **BMI (Δείκτης Μάζας Σώματος)**  
-- **Καθημερινές διατροφικές συνήθειες**  
-- **Φυσική δραστηριότητα & άσκηση**  
-- **Οικογενειακό ιστορικό παχυσαρκίας**  
-- **Κατανάλωση αλκοόλ & νερού**  
+### **🔢 Main Features of the Dataset**
+- **BMI (Body Mass Index)**  
+- **Daily dietary habits**  
+- **Physical activity & exercise**  
+- **Family history of obesity**  
+- **Alcohol & water consumption**  
 
 ---
 
-## 🛠 Χρησιμοποιούμενες Τεχνολογίες  
+## 🛠 Technologies Used  
 
 🔹 **Python**  
 🔹 **Google Colab**  
@@ -39,13 +39,13 @@
 
 ---
 
-## 🚀 Εκτέλεση του Notebook  
+## 🚀 Running the Notebook  
 
-Μπορείτε να εκτελέσετε το notebook **απευθείας στο Google Colab** πατώντας το παρακάτω κουμπί:  
+You can run the notebook **directly on Google Colab** by clicking the button below:  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/Obesity-Levels-Classification/blob/main/Νευρωνικά_Δίκτυα.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USERNAME/Obesity-Levels-Classification/blob/main/Νευρωνικά_Δίκτυα.ipynb](https://colab.research.google.com/drive/1Ac5nmM_jRH36yzfdRt2-GO2jdqRto9jE?usp=sharing))
 
-📌 **Εναλλακτικά, μπορείτε να το κατεβάσετε και να το τρέξετε τοπικά** με την εντολή:  
+📌 **Alternatively, you can download and run it locally** using the command:  
 
 ```sh
-jupyter notebook Νευρωνικά_Δίκτυα.ipynb
+jupyter notebook Neural_Networks.ipynb
