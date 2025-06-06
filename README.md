@@ -43,7 +43,7 @@ This repository contains a **Google Colab Notebook** that explores the use of **
 
 You can run the notebook **directly on Google Colab** by clicking the button below:  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USERNAME/Obesity-Levels-Classification/blob/main/Νευρωνικά_Δίκτυα.ipynb](https://colab.research.google.com/drive/1Ac5nmM_jRH36yzfdRt2-GO2jdqRto9jE?usp=sharing))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ac5nmM_jRH36yzfdRt2-GO2jdqRto9jE?usp=sharing)
 
 📌 **Alternatively, you can download and run it locally** using the command:  
 
